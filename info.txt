@@ -1,0 +1,3 @@
+
+Demo 001
+    - Animation handler that reads custom properties
